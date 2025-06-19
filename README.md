@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! Eu sou o Alfonso 👋
 
-<!--
-**Alfonso-Neto/Alfonso-Neto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Em transição de carreira para a área de TI  
+🎓 Técnico em Informática | Estudante do Entra21 - Programação e Banco de Dados  
+💻 Buscando oportunidade de estágio ou vaga júnior (Programação / Suporte Técnico)  
+🌐 Inglês avançado | Espanhol básico
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou aprendendo
+- Java
+- Python
+- SQL / Banco de Dados
+- Git e GitHub
+- APIs REST (conceitos)
+- Lógica de Programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projetos e Atividades
+Aqui você encontrará atividades práticas feitas durante o curso Entra21. Em breve, adicionarei um projeto final que está em desenvolvimento!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/alfonsoneto/)  
