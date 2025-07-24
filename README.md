@@ -6,7 +6,6 @@
 🌐 Inglês avançado | Espanhol básico
 
 ## 🚀 Tecnologias que estou aprendendo
-- Java
 - Python
 - SQL / Banco de Dados
 - Git e GitHub
