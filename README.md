@@ -5,7 +5,8 @@
 💻 Buscando oportunidade de estágio ou vaga júnior (Programação / Suporte Técnico)  
 🌐 Inglês avançado | Espanhol básico
 
-## 🚀 Tecnologias que estou aprendendo
+## 🚀 Tecnologias que estou aprendendo\
+- Java
 - Python
 - SQL / Banco de Dados
 - Git e GitHub
