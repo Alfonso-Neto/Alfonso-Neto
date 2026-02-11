@@ -1,8 +1,8 @@
 # Olá! Eu sou o Alfonso 👋
 
 🎯 Em transição de carreira para a área de TI  
-🎓 Técnico em Informática | Estudante do Entra21 - Programação e Banco de Dados  
-💻 Buscando oportunidade de estágio ou vaga júnior (Programação / Suporte Técnico)  
+🎓 Técnico em Informática | Formado no Entra21 em Inteligência Artificial 
+💻 Estágiario na empresa DataInfo 
 🌐 Inglês avançado | Espanhol básico
 
 ## 🚀 Tecnologias que estou aprendendo\
