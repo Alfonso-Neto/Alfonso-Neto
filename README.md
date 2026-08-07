@@ -5,8 +5,7 @@
 💻 Estágiario na empresa DataInfo 
 🌐 Inglês avançado | Espanhol básico
 
-## 🚀 Tecnologias que estou aprendendo\
-- Java
+## 🚀 Tecnologias que estou aprendendo
 - Python
 - SQL / Banco de Dados
 - Git e GitHub
