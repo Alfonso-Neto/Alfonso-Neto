@@ -10,7 +10,6 @@
 - SQL / Banco de Dados
 - Git e GitHub
 - APIs REST (conceitos)
-- Lógica de Programação
 
 ## 📁 Projetos e Atividades
 Aqui você encontrará atividades práticas feitas durante o curso Entra21. Em breve, adicionarei um projeto final que está em desenvolvimento!
